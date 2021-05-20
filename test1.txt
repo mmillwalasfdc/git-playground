@@ -1,0 +1,6 @@
+test1.txt
+test text entered
+This is a test
+These are some changes
+
+commit
